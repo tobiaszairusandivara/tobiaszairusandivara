@@ -1,12 +1,24 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"/><a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"></h2>  
 </div>
 
-<div align="center" width="50">
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-</div>
 
-## ⚡ Technologies
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
+
+```ruby
+CONST ZAIR = {
+  pronouns: "He" | "him",
+  backend: ["C#", "C++"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  database: ["SQL Server"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "Not die until finish this year."
+}
+```
+
+
+## My skill set...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -20,4 +32,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tobiaszairusandivara&count_private=true&show_icons=true&include_all_commits=true)
+
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobiaszairusandivara&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
+
+
