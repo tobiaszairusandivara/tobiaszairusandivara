@@ -20,13 +20,12 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
 
 ```ruby
-CONST ZAIR = {
+CONST ME = {
   pronouns: "He" | "him",
   backend: ["C#", "C++"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
   database: ["SQL Server"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "Not die until finish this year."
+  challenge: "Not die until finish this year X2."
 }
 ```
 
