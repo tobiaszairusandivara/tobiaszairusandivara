@@ -13,10 +13,15 @@
 
 <p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life.<br>I love coding and getting upset over a single line, a missing semicolon, or bad syntax.<br>I really want to make video games or some cute, fully-featured websites for someone someday, meet cool people and all the stuff.</p>
 
-<p align="left">That's all. GET OUT</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiaszairusandivara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <a href="https://wakatime.com/@4d7cba27-356c-4898-8644-d8131f277db0">
+    <img src="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0.svg" alt="wakatime" />
+  </a>
 </div>
 
 <h3 align="left">Language Set:</h3>
