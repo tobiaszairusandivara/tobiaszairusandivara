@@ -11,7 +11,7 @@
 
 <h2 align="center">Introduction</h2>
 
-<p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life.<br>I love coding and getting upset over a single line, a missing semicolon, or bad syntax.<br>I really want to make video games or some cute, fully-featured websites for someone someday, meet cool people and all the stuff.</p>
+<p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life.<br>I love coding and getting upset for a bad syntax.<br>I really want to make video games or some cute, fully-featured websites for someone someday, meet cool people and all the stuff.</p>
 
 
 <div align="center">
