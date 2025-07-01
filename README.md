@@ -2,9 +2,15 @@
 
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
     Hi, welcome! 
-    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"></a>
   </h1>  
 </div>
@@ -14,9 +20,7 @@
 <p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life.<br>I love coding and getting upset for a bad syntax.<br>I really want to make video games or some cute, fully-featured websites for someone someday, meet cool people and all the stuff.</p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiaszairusandivara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph" />
-</div>
+
 
 <div align="center">
   <a href="https://wakatime.com/@4d7cba27-356c-4898-8644-d8131f277db0">
