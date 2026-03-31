@@ -1,4 +1,7 @@
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY2ODU4eHRhbGRteXE5d2JjaGtmb2M5YzJobWFzNnZyb3U0OHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxEiJFHdKXeFO/giphy.gif" />
+</div>
 
 <div align="center">
   <h1 align="center">  Hi, welcome! </h1>
@@ -110,10 +113,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" />
-</div>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY2ODU4eHRhbGRteXE5d2JjaGtmb2M5YzJobWFzNnZyb3U0OHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxEiJFHdKXeFO/giphy.gif" />
 </div>
 
 <div align="center">
