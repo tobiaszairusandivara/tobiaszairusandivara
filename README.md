@@ -1,10 +1,9 @@
 
 <div align="center">
+  <h1 align="center">  Hi, welcome! </h1>
+  <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY2ODU4eHRhbGRteXE5d2JjaGtmb2M5YzJobWFzNnZyb3U0OHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxEiJFHdKXeFO/giphy.gif" />
 </div>
-
-<div align="center">
-  <h1 align="center">  Hi, welcome! </h1>
   <div align="center">
   <a href="https://wakatime.com/@4d7cba27-356c-4898-8644-d8131f277db0">
     <img src="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0.svg" alt="wakatime" />
