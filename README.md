@@ -1,30 +1,48 @@
 
 
 <div align="center">
-  <h1>
+  <h1 align="center">  Hi, welcome! </h1>
+  <div align="center">
+  <a href="https://wakatime.com/@4d7cba27-356c-4898-8644-d8131f277db0">
+    <img src="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0.svg" alt="wakatime" />
+  </a>
+</div>
+  <h2>
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
-    Hi, welcome! 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"/>
     <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"></a>
-  </h1>  
+  </h2>  
 </div>
-
-<h2 align="center">Introduction</h2>
 
 <p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life. I love coding and getting upset almost all the time <3.<br>
 
 
-<div align="center">
-  <a href="https://wakatime.com/@4d7cba27-356c-4898-8644-d8131f277db0">
-    <img src="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0.svg" alt="wakatime" />
-  </a>
-</div>
+
 
 <h3 align="left">Language Set:</h3>
 
