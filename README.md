@@ -113,6 +113,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY2ODU4eHRhbGRteXE5d2JjaGtmb2M5YzJobWFzNnZyb3U0OHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxEiJFHdKXeFO/giphy.gif" />
+</div>
+
+<div align="center">
   <a href="saymyname_dys" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
@@ -123,12 +127,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
 </div>
-
-<div align="center">
-  <p>You are not meant to see this thing</p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzY2ODU4eHRhbGRteXE5d2JjaGtmb2M5YzJobWFzNnZyb3U0OHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxEiJFHdKXeFO/giphy.gif" />
-</div>
-
 <div align="center">
   <p>Have a good day!</p>
   <div>
