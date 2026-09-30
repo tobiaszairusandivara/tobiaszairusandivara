@@ -96,7 +96,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="35" alt="neo4j logo" />
 </div>
 
-<h3 align="left">Programs/IDE's:</h3>
+<!-- <h3 align="left">Programs/IDE's:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="35" alt="webstorm logo" />
@@ -112,7 +112,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="saymyname_dys" target="_blank">
