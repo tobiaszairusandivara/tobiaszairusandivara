@@ -37,7 +37,7 @@
   </h2>  
 </div>
 
-<p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life. I love coding and getting upset almost all the time <3.<br>
+<p align="left">Welcome! I'm currently a student — I have no idea what path to follow yet, but one thing I'm sure of is that programming will always be part of my life. I love coding and getting upset almost all the time <3. I hate.<br>
 
 
 
